@@ -1,0 +1,94 @@
+Ejercicios con switch
+Días de la semana:
+
+Crea un programa que defina una variable dia con un valor entre 1 y 7.
+
+Usa un switch para imprimir el nombre del día correspondiente. Por ejemplo, 1 es lunes, 2 es martes, y así sucesivamente.
+
+Calificaciones escolares:
+
+Define una variable calificacion con valores posibles como "A", "B", "C" o "D".
+
+Utiliza un switch para imprimir un mensaje basado en la calificación. Por ejemplo, "A" es "Excelente".
+
+Estaciones del año:
+
+Declara una variable estacion con posibles valores como "invierno", "verano", etc.
+
+Usa un switch para mostrar un mensaje relacionado con la estación elegida.
+
+Ejercicios con for
+Sumar números del 1 al 10:
+
+Escribe un bucle for que sume los números del 1 al 10.
+
+Al final, imprime el total de la suma.
+
+Imprimir números pares:
+
+Usa un for para imprimir todos los números pares del 0 al 20.
+
+Recorrer un array:
+
+Declara un array llamado frutas que contenga nombres como "Manzana", "Plátano" y "Cereza".
+
+Recorre el array con un bucle for e imprime cada elemento.
+
+Ejercicios con do-while
+Contar hasta 5:
+
+Usa un bucle do-while para imprimir los números del 1 al 5.
+
+Adivina el número:
+
+Pide al usuario adivinar un número entre 1 y 10 usando un do-while.
+
+Repite el proceso hasta que el usuario adivine el número correcto.
+
+Menú interactivo:
+
+Implementa un menú que tenga opciones (1. Ver perfil, 2. Configuración, 3. Salir).
+
+Usa un do-while para mostrar el menú y pide al usuario elegir una opción hasta que seleccione "Salir".
+
+Ejercicios con while
+Imprimir números del 1 al 10:
+
+Escribe un bucle while para imprimir los números del 1 al 10.
+
+Contraseña correcta:
+
+Pide al usuario que introduzca una contraseña en un bucle while.
+
+Termina cuando el usuario introduce la contraseña correcta.
+
+Contar hacia atrás:
+
+Usa un while para contar del 10 al 1 e imprime cada número.
+
+Ejercicios con Funciones
+Suma de dos números:
+
+Crea una función llamada sumar que acepte dos parámetros y retorne su suma.
+
+Llama a la función con diferentes valores y muestra los resultados.
+
+Número par o impar:
+
+Define una función esPar que tome un número como parámetro y retorne "Es par" o "Es impar".
+
+Calcular el área de un círculo:
+
+Escribe una función areaCirculo que calcule el área de un círculo dado su radio.
+
+Convertir Celsius a Fahrenheit:
+
+Define una función celsiusAFahrenheit que convierta un valor en grados Celsius a Fahrenheit.
+
+Palíndromo:
+
+Implementa una función esPalindromo que tome una palabra y retorne si es un palíndromo o no.
+
+Contar vocales en una palabra:
+
+Crea una función contarVocales que reciba una palabra y cuente cuántas vocales tiene.
